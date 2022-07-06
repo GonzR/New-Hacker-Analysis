@@ -1,1 +1,1 @@
-# New-Hacker-Analysis
+# News-Hacker-Analysis
